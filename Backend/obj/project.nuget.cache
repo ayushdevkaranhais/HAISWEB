@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jUP14GZfXM0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AyushDevkaran\\HAISWEB\\HAISWEB\\Backend\\Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AyushDevkaran\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\AyushDevkaran\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
