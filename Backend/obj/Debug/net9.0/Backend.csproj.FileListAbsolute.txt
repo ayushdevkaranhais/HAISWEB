@@ -31,4 +31,3 @@ C:\Users\AyushDevkaran\HAISWEB\HAISWEB\Backend\obj\Debug\net9.0\refint\Backend.d
 C:\Users\AyushDevkaran\HAISWEB\HAISWEB\Backend\obj\Debug\net9.0\Backend.pdb
 C:\Users\AyushDevkaran\HAISWEB\HAISWEB\Backend\obj\Debug\net9.0\Backend.genruntimeconfig.cache
 C:\Users\AyushDevkaran\HAISWEB\HAISWEB\Backend\obj\Debug\net9.0\ref\Backend.dll
-C:\Users\AyushDevkaran\HAISWEB\HAISWEB\Backend\bin\Debug\net9.0\userstories.json
